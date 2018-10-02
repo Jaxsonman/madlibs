@@ -24,7 +24,7 @@ class Card extends Component {
         return(
            <div className='card'>
                 <h1>{this.state.color}</h1>
-                <input></input>
+                <input />
            </div>
         )
         return (
