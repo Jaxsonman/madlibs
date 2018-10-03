@@ -16,7 +16,7 @@ class Card extends Component {
 
 
     handleInputChange(event) {
-        this.setState({color: event.target.value})
+        this.setState({color: event.target.value})  
 
     }
 
